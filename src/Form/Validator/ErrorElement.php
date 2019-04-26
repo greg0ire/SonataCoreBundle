@@ -176,7 +176,7 @@ class ErrorElement
      * @param string|array $message
      * @param array        $parameters
      * @param mixed|null   $value
-     * @param string       $translationDomain
+     * @param string|null  $translationDomain
      *
      * @return ErrorElement
      */
